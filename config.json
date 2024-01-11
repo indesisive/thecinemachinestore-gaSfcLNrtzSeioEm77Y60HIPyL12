@@ -1,0 +1,107 @@
+{
+    "colors": {
+        "background": "#FFFDD0",
+        "titleTextColor": "#5C4033",
+        "mainTextColor": "#964B00",
+        "revealColor": "#C4A484",
+        "drawerBckColor": "#ffe4c4",
+        "buttonBck": "#7B3F00",
+        "buttonTextColor": "#ede6d6",
+        "buttonOutlineColor": "#490206",
+        "secBtnBck": "#4f46e5",
+        "cancelBtnBck": "#ff0000",
+        "disabledBtnBck": "#000000",
+        "highlightedClr": "#FAD99D"
+    },
+    "title": "Welcome to NAME",
+    "contacts": {
+        "instagramLink": "#",
+        "tiktokLink": "#",
+        "youtubeLink": ""
+    },
+    "info": {
+        "title": "Info On Us",
+        "subtitle": "Based in AREA AREA",
+        "services": {
+            "service1": "Service 1",
+            "service2": "Service 2",
+            "service3": "Service 3",
+            "service4": "Service 4"
+        }
+    },
+    "textSections": [
+        {
+            "title": "Payment Policy:",
+            "content": "An X% deposit is required when making the booking. Booking will not go through until paid."
+        },
+        {
+            "title": "Late Policy:",
+            "content": "1-10 mins late results in £X fee, 10 mins+ is cancellation + rebook"
+        }
+    ],
+    "bookingInfo": {
+        "timeInfo": {
+            "sunday": [],
+            "monday": ["08:30", "12:45", "15:20", "18:10", "20:45", "22:30"],
+            "tuesday": ["09:15", "13:30", "16:45", "19:30", "21:00", "23:15"],
+            "wednesday": ["10:00", "14:15", "17:30", "20:15", "22:00"],
+            "thursday": ["11:45", "15:00", "18:15", "21:45"],
+            "friday": ["12:30", "16:45", "19:00", "22:30"],
+            "saturday": ["13:15", "17:30", "20:15", "22:45"]
+        },
+        "services": [
+            {
+                "title": "Service 1",
+                "desc": "This is the service where we proceed to do this, that, and that.",
+                "priceInPennies": 499,
+                "extensions": [
+                    {
+                        "name": "Extension 1",
+                        "priceInPennies": 199
+                    },
+                    {
+                        "name": "Extension 2",
+                        "priceInPennies": 199
+                    }
+                ]
+            },
+            {
+                "title": "Service 2",
+                "desc": "This is the service where we proceed to do this, that, and that.",
+                "priceInPennies": 499,
+                "extensions": [
+                    {
+                        "name": "Extension 1",
+                        "priceInPennies": 199
+                    }
+                ]
+            },
+            {
+                "title": "Service 3",
+                "desc": "This is the service where we proceed to do this, that, and that.",
+                "priceInPennies": 4799,
+                "extensions": [
+                    {
+                        "name": "Extension 1",
+                        "priceInPennies": 199
+                    },
+                    {
+                        "name": "Extension 2",
+                        "priceInPennies": 199
+                    }
+                ]
+            },
+            {
+                "title": "Service 4",
+                "desc": "This is the service where we proceed to do this, that, and that.",
+                "priceInPennies": 4499,
+                "extensions": [
+                    {
+                        "name": "Extension 1",
+                        "priceInPennies": 199
+                    }
+                ]
+            }
+        ]
+    }
+}
