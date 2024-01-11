@@ -1,9 +1,9 @@
 {
   "colors": {
-    "background": "#FFFDD0",
-    "titleTextColor": "#5C4033",
-    "mainTextColor": "#964B00",
-    "revealColor": "#C4A484",
+    "background": "#0a0a0a",
+    "titleTextColor": "#ffffff",
+    "mainTextColor": "#ffffff",
+    "revealColor": "#7e098d",
     "drawerBckColor": "#ffe4c4",
     "buttonBck": "#7B3F00",
     "buttonTextColor": "#ede6d6",
